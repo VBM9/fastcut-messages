@@ -1,16 +1,9 @@
 {
   "messages": [
-        {
-      "type": "INFO",
-      "text": "Hello kon papa"
-    },
     {
       "type": "INFO",
-      "text": "សូមស្វាគមន៍មកកាន់ FASTCUT v1.3! មានបន្ថែមមុខងារថ្មីៗជាច្រើន។"
-    },
-    {
-      "type": "WARN",
-      "text": "បញ្ហាដែលបានដឹង៖ ការប្រើប្រាស់ Filter 'Stabilization' អាចនឹងចំណាយពេលយូរក្នុងការដំណើរការ។"
+      "text": "hello kon papa"
     }
+
   ]
 }
